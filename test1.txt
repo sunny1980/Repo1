@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 9CF6-0635
+
+ Directory of C:\Users\singh\Desktop\Project
+
+06/12/2018  03:30 PM    <DIR>          .
+06/12/2018  03:30 PM    <DIR>          ..
+06/12/2018  03:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  293,418,270,720 bytes free
